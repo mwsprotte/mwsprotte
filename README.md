@@ -1,42 +1,25 @@
-Estudante de engenharia elétrica com diversas qualificações na área de desenvolvimento de sistemas e experiência com sistemas embarcados e sistemas de engenharia.
+### Welcome to my profile! ###
 
-  # Habilidades
-   
-  -	Java, Spring
-  - Sistemas embarcados C++/C
-  -	HTML, CSS, JavaScript e PHP
-  -	MySQL
-  -	GIT
-  -	MQTT
-  -	Linux 
+Here you will find some public repositories related to academic activities or projects related to hobbies/training, as follows:
+
+- [ IoT System for Electric Motor Telemetry and Energy Monitoring](#iot-system-for-electric-motor-telemetry-and-energy-monitoring)
+- [Rest Wth Spring-Boot and Java](#rest-wth-spring-boot-and-java")
+- [Git Bash Guide](#git-bash-guide)
   
-  # Educação
+### IoT System for Electric Motor Telemetry and Energy Monitoring ###
   
-  - Cursando bacharelado em engenharia elétrica no IFSC
+  - Available in this [repository](#);
+  - system developed by me in 2021-2022 in my work as a researcher at IFSC;
+  - stack based on PHP and Javascript;
+  - embedded system for ESP8266, ESP32 and Arduino Uno controllers based on C/C++.
+
+### Rest Wth Spring-Boot and Java ###
   
-  # Experiência
+  - Available in this [repository](mwsprotte/rest-with-spring-boot-and-java-erudio);
+  - a project related to this [training](https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-springboot-e-docker/);
+  - my first complete RESTful API (Java, Spring-Boot and other technologies).
+
+### Git Bash Guide ###
   
-  
-  ## Pesquisador na area de IoT e sistemas embarcados (2020-2021)
-   
-  ## Estagiário de sistemas de engenharia (2021-2022)
-  
-  ## Desenvolvedore de sistemas embarcados (2023 - atual)
-  
-  ## Estagiário de sistemas de engenharia (2023 - atual)
-<!--   
-  -	Desenvolvimento de sites para o comércio e a indústria local;
-  -	Elaboração dos sites internos da empresa;
-  -	Manutenção da hospedagem dos sites dos clientes. -->
-  
-  # Publicações
-  
-  - Desenvolvimento de Conversor Flyback Para uso em Equipamento de Medição – SEPETEC (2023)
-  - Sistema IoT de Controle de Solar Tracker, com Monitoramento de Energia, Luminosidade e Temperatura. SEPETEC (2023)
-  - Medição IoT de Deformação de Bandagens de Rotores de Grande Porte com Uso de Extensômetro e de Sensor Piezoelétrico. 
-  
-  # Links
-  
-  <!-- - [Blog pessoal](https://www.paulocollares.com.br/) -->
-  - [Linkedin](https://br.linkedin.com/in/msprotte)
-  - [Github](https://github.com/mwsprotte)
+  - Available in this [repository](#);
+  - A little documentation on git commands that I use frequently.
